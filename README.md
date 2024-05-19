@@ -21,8 +21,8 @@ flowchart LR
 VALOR1[/Valor 1/]
 VALOR2[/Valor 2/]
 CONDICIONAL1{VALOR 2 <\n VALOR 1}
-CONDICIONAL2{Não é numero \n inteiro?}
-CONDICIONAL3{Não é numero \n inteiro?}
+CONDICIONAL2{É numero \n inteiro?}
+CONDICIONAL3{É numero \n inteiro?}
 ERRO_NUMERO_MENOR[Segundo numero maior que primeiro?]:::erro
 ERRO_TIPO_INCOMPATÍVEL:::erro
 
